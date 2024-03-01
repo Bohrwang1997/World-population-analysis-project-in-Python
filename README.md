@@ -1,0 +1,2 @@
+# World-population-analysis-project-in-Python
+ The Python 3 program analyzes world population data categorized by regions, sourced from a CSV file. It conducts various statistical tasks, including identifying the countries with minimum and maximum populations in regions with positive net population change, computing average and standard deviation of population for a given region, determining population density for each country within a region, and calculating the correlation between population and land area across countries in a specific region.
